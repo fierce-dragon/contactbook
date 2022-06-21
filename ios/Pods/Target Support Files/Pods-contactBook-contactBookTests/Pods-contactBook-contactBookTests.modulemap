@@ -1,0 +1,6 @@
+module Pods_contactBook_contactBookTests {
+  umbrella header "Pods-contactBook-contactBookTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_contactBook {
+  umbrella header "Pods-contactBook-umbrella.h"
+
+  export *
+  module * { export * }
+}
